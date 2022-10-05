@@ -8,6 +8,6 @@ Description of commands
 
 4. ls -l : Long list of contents in directory
 
-5. ls -a : List of all contents including hidden files
+5. ls -la : Long list and hidden files in a directory
 
-6. ls -la : Long list and hidden files in a directory
+6. ls -lan : Long list and hidden files in a directory showing only the file numbers
